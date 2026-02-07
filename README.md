@@ -8,7 +8,7 @@
   *MLP with embedding layers to predict drug–drug interactions using TWOSIDES dataset.*
 - [**Hybrid EfficientNet–ViT Fusion**](https://github.com/daniabalaawi/Hybrid-Skin-Lesion-Classification)  
   *Feature fusion for skin lesion classification, combining CNN (EfficientNet) and ViT with Grad-CAM & attention maps.*
-- [**GANs-for-Imbalanced-Classification**](https://github.com/daniabalaawi/GANs-for-Imbalanced-Classification)
+- [**GANs-for-Imbalanced-Classification**](https://github.com/daniabalaawi/GANs-for-Imbalanced-Classification)  
   *GAN-based data augmentation for imbalanced classification.*
 
 # 📝 Training & Learning
