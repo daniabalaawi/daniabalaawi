@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Dania Balaawi
 
-🎓 Data Science student at KASIT, University of Jordan  
-💻 Passionate about AI, Machine Learning, and Data Analysis
+🎓 Data Science Graduate from University of Jordan  
+💻 Passionate about AI, Machine Learning, Data Engineering and Data Analysis
 
 # 📂 Projects
 - A collection of my practical projects in data science, machine learning, and AI:  
